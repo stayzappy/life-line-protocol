@@ -58,8 +58,8 @@ As long as the user pings the app, the vault remains locked. If the timer expire
 
 <table>
   <tr>
-    <td align="center"><img src="docs/email-received-1.png" width="450" alt="Email Notification"/><br/><b>Encrypted Email Dispatch</b></td>
-    <td align="center"><img src="docs/email-received-2.png" width="450" alt="Email Link"/><br/><b>Secure Claim Link</b></td>
+    <td align="center"><img src="docs/email-received.png" width="450" alt="Email Notification"/><br/><b>Encrypted Email Dispatch</b></td>
+    <td align="center"><img src="docs/email-received2.png" width="450" alt="Email Link"/><br/><b>Secure Claim Link</b></td>
   </tr>
 </table>
 
