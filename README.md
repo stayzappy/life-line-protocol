@@ -36,9 +36,9 @@ Users securely log in to the LifeLine mobile app using their existing Starknet w
 
 <table>
   <tr>
-    <td align="center"><img src="docs/splash-screen.png" width="250" alt="Splash Screen"/><br/><b>Splash Screen</b></td>
-    <td align="center"><img src="docs/connect-wallet.png" width="250" alt="Connect Wallet"/><br/><b>Connect Wallet</b></td>
-    <td align="center"><img src="docs/braavos-connection.png" width="250" alt="Braavos Bridge"/><br/><b>Braavos Secure Bridge</b></td>
+    <td align="center"><img src="docs/splash-screen.jpg" width="250" alt="Splash Screen"/><br/><b>Splash Screen</b></td>
+    <td align="center"><img src="docs/connect-wallet.jpg" width="250" alt="Connect Wallet"/><br/><b>Connect Wallet</b></td>
+    <td align="center"><img src="docs/braavos-connection.jpg" width="250" alt="Braavos Bridge"/><br/><b>Braavos Secure Bridge</b></td>
   </tr>
 </table>
 
