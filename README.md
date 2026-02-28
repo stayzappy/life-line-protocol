@@ -65,7 +65,7 @@ As long as the user pings the app, the vault remains locked. If the timer expire
 
 ### 4. Seamless Web3 Claiming
 The beneficiary clicks the email link, arriving at a premium Web3 interface. They enter the 6-digit PIN left by the creator, authenticate their own wallet, and claim the on-chain assets.
-> 💡 **The Web2 to Web3 Bridge:** We use an ephemeral cryptographic key pair locked behind a standard 6-digit PIN. This allows Web2 users to receive a secure inheritance without needing to understand seed phrases or own a wallet upfront. The Web Connector acts as a bridge, decrypting their proof of identity locally in the browser and forcing them to onboard into the Starknet ecosystem to claim their funds.
+> 💡 **The Web2 to Web3 Bridge:** The app uses an ephemeral cryptographic key pair locked behind a standard 6-digit PIN. This allows Web2 users to receive a secure inheritance without needing to understand seed phrases or own a wallet upfront. The Web Connector acts as a bridge, decrypting their proof of identity locally in the browser and forcing them to onboard into the Starknet ecosystem to claim their funds.
 
 <table>
   <tr>
