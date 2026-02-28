@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511541638922",
+    "project_id": "lifeline-vault",
+    "storage_bucket": "lifeline-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511541638922:android:26df493c43ea950f57ecf3",
+        "android_client_info": {
+          "package_name": "com.zappy.lifeline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqcihaOrFsARSoV-MSkKNb-jJKxVuJyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
