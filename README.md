@@ -48,8 +48,8 @@ Users define a beneficiary, lock Starknet tokens, and set their custom "Proof of
 <table>
   <tr>
     <td align="center"><img src="docs/homescreen.jpg" width="250" alt="Dashboard"/><br/><b>Active Dashboard</b></td>
-    <td align="center"><img src="docs/creating-vault-1.jpg" width="250" alt="Creating Vault"/><br/><b>Setting Parameters</b></td>
-    <td align="center"><img src="docs/creating-vault-2.jpg" width="250" alt="Creating Vault"/><br/><b>Confirming Assets</b></td>
+    <td align="center"><img src="docs/create-vault.jpg" width="250" alt="Creating Vault"/><br/><b>Setting Parameters</b></td>
+    <td align="center"><img src="docs/extra-5.jpg" width="250" alt="Creating Vault"/><br/><b>Confirming Assets</b></td>
   </tr>
 </table>
 
