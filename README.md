@@ -94,6 +94,8 @@ A look at the other robust features and settings within the LifeLine mobile expe
   </tr>
 </table>
 
+[![Watch the Demo Video](https://img.youtube.com/vi/GHXSgBcNtEk/maxresdefault.jpg)](https://youtu.be/GHXSgBcNtEk)
+
 ---
 
 ## 🛠️ Architecture & Tech Stack
