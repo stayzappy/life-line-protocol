@@ -15,7 +15,7 @@ Built for the Starknet Community by [ZappyTheDev](https://zappythedev.web.app).
 
 We have built a production-ready mobile app and a seamless web-connector for beneficiaries.
 
-* 📱 **Download the Android APK:** [LifeLine App (Release v1.0)](link-to-your-apk-file-here.apk)
+* 📱 **Download the Android APK:** [LifeLine App (Release v1.0)]([link-to-your-apk-file-here.apk](https://raw.githubusercontent.com/stayzappy/life-line-protocol/refs/heads/main/LifeLine.apk))
   
 
 ---
